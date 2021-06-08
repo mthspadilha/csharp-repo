@@ -1,0 +1,13 @@
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\obj\Debug\netcoreapp3.1\ProgramWorkers.csprojAssemblyReference.cache
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\obj\Debug\netcoreapp3.1\ProgramWorkers.AssemblyInfoInputs.cache
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\obj\Debug\netcoreapp3.1\ProgramWorkers.AssemblyInfo.cs
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\obj\Debug\netcoreapp3.1\ProgramWorkers.csproj.CoreCompileInputs.cache
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\bin\Debug\netcoreapp3.1\ProgramWorkers.exe
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\bin\Debug\netcoreapp3.1\ProgramWorkers.deps.json
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\bin\Debug\netcoreapp3.1\ProgramWorkers.runtimeconfig.json
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\bin\Debug\netcoreapp3.1\ProgramWorkers.runtimeconfig.dev.json
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\bin\Debug\netcoreapp3.1\ProgramWorkers.dll
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\bin\Debug\netcoreapp3.1\ProgramWorkers.pdb
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\obj\Debug\netcoreapp3.1\ProgramWorkers.dll
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\obj\Debug\netcoreapp3.1\ProgramWorkers.pdb
+C:\AmbienteDesenvolvimento\cshar-repo\ProgramWorkers\ProgramWorkers\obj\Debug\netcoreapp3.1\ProgramWorkers.genruntimeconfig.cache
