@@ -1,0 +1,13 @@
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\bin\Debug\netcoreapp3.1\PostProgram.exe
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\bin\Debug\netcoreapp3.1\PostProgram.deps.json
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\bin\Debug\netcoreapp3.1\PostProgram.runtimeconfig.json
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\bin\Debug\netcoreapp3.1\PostProgram.runtimeconfig.dev.json
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\bin\Debug\netcoreapp3.1\PostProgram.dll
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\bin\Debug\netcoreapp3.1\PostProgram.pdb
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\obj\Debug\netcoreapp3.1\PostProgram.csprojAssemblyReference.cache
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\obj\Debug\netcoreapp3.1\PostProgram.AssemblyInfoInputs.cache
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\obj\Debug\netcoreapp3.1\PostProgram.AssemblyInfo.cs
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\obj\Debug\netcoreapp3.1\PostProgram.csproj.CoreCompileInputs.cache
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\obj\Debug\netcoreapp3.1\PostProgram.dll
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\obj\Debug\netcoreapp3.1\PostProgram.pdb
+C:\AmbienteDesenvolvimento\cshar-repo\PostProgram\PostProgram\obj\Debug\netcoreapp3.1\PostProgram.genruntimeconfig.cache
