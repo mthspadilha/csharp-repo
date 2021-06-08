@@ -4,17 +4,17 @@ using System.Text;
 
 namespace Compositon.entities
 {
-    class Produtcts
+    class Product
     {
         public string NameProduct { get; set; }
         public double PriceProduct { get; set; }
 
-        public Produtcts()
+        public Product()
         {
 
         }
 
-        public Produtcts(string nameProduct, double priceProduct)
+        public Product(string nameProduct, double priceProduct)
         {
             NameProduct = nameProduct;
             PriceProduct = priceProduct;
